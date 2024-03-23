@@ -1,6 +1,6 @@
 # NEU 6205 - Program Structure and Algorithms
 
-This repository serves as a digital archive for all my assignments, projects, and comprehensive work for the NEU 6205 Course, covering Program Structure and Algorithms.
+This repository serves as a digital archive for all my assignments, projects, and comprehensive work for the NEU 6205 Course on Spring 2023, covering Program Structure and Algorithms.
 
 ## Course Description
 
